@@ -5,7 +5,7 @@
   Sashank's Personal Portfolio
 </h1>
 <p align="center">
-  This is my personal portfolio website hosted <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  This is my personal portfolio website hosted <a href="https://sashankagarwal.vercel.app/" target="_blank">sashankagarwal.vercel.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   This website was originally designed by <a href="https://github.com/bchiang7" target="_blank">Brittany Chiang</a> and can be found <a href="https://brittanychiang.com/" target="_blank">brittanychiang.com</a>
