@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Currently pursuing a Masters of Science in Computer Science from the
+        Currently pursuing a Masters of Science in Computer Science from the{' '}
         <a href="https://www.usc.edu/" target="_blank" rel="noreferrer">
           University of Southern California
         </a>
