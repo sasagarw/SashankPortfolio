@@ -65,14 +65,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a forward-thinking Software Engineer with background working productively in dynamic
-        environments. Fluent in GoLang, Java and Python programming languages used to develop
-        software within IT industry. Proud team player focused on achieving project objectives with
-        speed and accuracy. Currently, I’m pursuing Master of Science in Computer Science at{' '}
+        Currently pursuing a Masters of Science in Computer Science from the
         <a href="https://www.usc.edu/" target="_blank" rel="noreferrer">
           University of Southern California
         </a>
-        .
+        , I am a forward-thinking Software Engineer experienced in thriving within dynamic
+        environments. My proficiency in programming languages like GoLang, Java, and Python has been
+        instrumental in crafting software solutions for the IT industry. As a dedicated team player,
+        I'm committed to achieving project objectives swiftly and accurately.
       </p>
     </>
   );
