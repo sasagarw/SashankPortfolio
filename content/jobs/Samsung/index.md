@@ -1,5 +1,5 @@
 ---
-date: '2023-08-20'
+date: '2019-08-20'
 title: 'Project Intern'
 company: 'Samsung R&D'
 location: 'Bangalore, India'

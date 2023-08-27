@@ -1,5 +1,5 @@
 ---
-date: '2023-08-20'
+date: '2020-01-01'
 title: 'Full Stack Developer Intern'
 company: 'Nuclei'
 location: 'Bangalore, India'

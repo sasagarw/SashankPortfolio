@@ -1,5 +1,5 @@
 ---
-date: '2023-08-20'
+date: '2020-07-20'
 title: 'Software Engineer'
 company: 'yellow.ai'
 location: 'Bangalore, India'

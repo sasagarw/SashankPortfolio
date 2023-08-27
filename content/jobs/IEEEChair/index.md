@@ -1,5 +1,5 @@
 ---
-date: '2023-08-27'
+date: '2018-12-01'
 title: 'Chairperson'
 company: 'IEEE RIT'
 location: 'Bangalore, India'
