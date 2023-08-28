@@ -1,6 +1,6 @@
 ---
 date: '2020-08-01'
-title: 'Real Time DDoS Detection and Mitigation in SDN using ML Techniques'
+title: 'Real Time DDoS Detection and Mitigation in SDN using ML Techniques [publication]'
 github: ''
 external: 'https://doi.org/10.47839/ijc.21.3.2691'
 tech:

@@ -1,6 +1,6 @@
 ---
 date: '2019-05-13'
-title: 'A Brief Survey of Compiler Optimizations and their Sequence Optimization'
+title: 'A Brief Survey of Compiler Optimizations and their Sequence Optimization [publication]'
 github: ''
 external: 'https://www.ijresm.com/Vol.2_2019/Vol2_Iss5_May19/IJRESM_V2_I5_70.pdf'
 tech:
