@@ -12,5 +12,7 @@ company: '-'
 showInProjects: true
 ---
 
-- Real-time traffic analysis to detect and mitigate DDoS attacks in the SDN environment.
-- Developed machine learning model for attack classification and application-level mitigation.
+- Detection of DDoS attack in SDN based on real-time traffic analysis
+- Identifying dynamic thresholds specific to the traffic flows in the network
+- Build a machine learning model to classify attacks by traffic analysis, specific to an application
+- Successful mitigation of the DDoS attack at application level
