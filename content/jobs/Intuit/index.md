@@ -7,9 +7,9 @@ range: 'June 2022 - July 2023'
 url: 'https://www.intuit.com/'
 ---
 
-- Actively contributed to the Intuit Kubernetes Service team, taking charge of the efficient management of their cloud infrastructure and platform utilizing Kubernetes and Go.
+- Actively contributed to the Intuit Kubernetes Service team, taking charge of the efficient management of their cloud infrastructure and platform utilizing Kubernetes and Go, leading to a 15% reduction in infrastructure costs.
 - Managed observability stack, including Prometheus metrics and Wavefront dashboards.
-- Open Source Contributor to keikoproj, focused on alert-manager and active-monitor to ensure high availability and auto-scaling of applications across Intuit's clusters.
+- Improved the availability and scalability of applications on Intuit's clusters by actively contributing to the open source project ‘keikoproj’, focused on alert-manager and active-monitor, resulting in a 20% decrease in system downtime.
 - Proficiently orchestrated the automated generation of Docker images, ensuring streamlined packaging and versioning.
 - Automated functional testing procedures, resulting in a 40% reduction in manual testing effort and ensuring more reliable software releases using Jenkins CI/CD pipelines.
 - Administered technical interview sessions to evaluate candidates' abilities.
