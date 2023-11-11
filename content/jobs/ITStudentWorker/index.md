@@ -1,7 +1,7 @@
 ---
 date: '2023-10-01'
 title: 'Part-time IT Student Worker'
-company: 'USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences'
+company: 'USC'
 location: 'Los Angeles, California'
 range: 'Oct 2023 - Present'
 url: 'https://mann.usc.edu/about-us/'
