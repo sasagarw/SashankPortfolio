@@ -136,6 +136,8 @@ const About = () => {
     'Shell Scripting',
     'SQL',
     'EFK Stack',
+    'Terraform',
+    'AWS',
   ];
 
   return (

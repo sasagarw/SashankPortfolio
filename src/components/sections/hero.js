@@ -69,10 +69,11 @@ const Hero = () => {
         <a href="https://www.usc.edu/" target="_blank" rel="noreferrer">
           University of Southern California
         </a>
-        , I am a forward-thinking Software Engineer experienced in thriving within dynamic
-        environments. My proficiency in programming languages like GoLang, Java, and Python has been
-        instrumental in crafting software solutions for the IT industry. As a dedicated team player,
-        I'm committed to achieving project objectives swiftly and accurately.
+        , I am an innovative Software Engineer with a proven track record of success in dynamic
+        environments. My expertise in programming languages such as GoLang, Java, and Python has
+        been pivotal in developing cutting-edge software solutions for the IT industry. Proficient
+        in orchestrating cloud infrastructure through tools like Kubernetes, Docker, Terraform, and
+        CI/CD tools, I am dedicated to efficiently and precisely achieving project objectives.
       </p>
     </>
   );
