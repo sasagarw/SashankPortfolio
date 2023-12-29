@@ -2,7 +2,6 @@
 date: '2023-12-20'
 title: 'Learning Terraform'
 github: 'https://github.com/sasagarw/terraform-learning'
-external: ''
 tech:
   - Terraform
   - AWS
