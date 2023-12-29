@@ -61,7 +61,7 @@ const Contact = () => {
 
       <p>
         Currently I'm looking for Summer Internship opportunities starting May 2024. I'm interested
-        in Backend Developer, DevOps Engineer, Cloud Engineer or Software Engineer roles. If you
+        in Cloud Engineer, DevOps Engineer, Backend Developer or Software Engineer roles. If you
         have any relevant job opportunities or just want to say hi, feel free to mail me!
       </p>
 
