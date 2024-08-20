@@ -9,6 +9,8 @@ tech:
   - Bootstrap
   - NodeJS
   - ExpressJS
+company: 'RIT'
+showInProjects: true
 ---
 
 Developed and maintained a college website generating dynamic reports and securely managing college data in a centralized database. Mainly utilized by the Principal and Professors from all departments.
