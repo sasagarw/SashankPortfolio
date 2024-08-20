@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Stock Search Web and iOS Application'
+title: 'Stock Search Web, iOS Application'
 cover: './demo.png'
 external: 'https://assignment3-dmajjnrbvq-wl.a.run.app/'
 tech:
