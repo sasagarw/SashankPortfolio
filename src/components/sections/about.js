@@ -166,9 +166,10 @@ const About = () => {
             </p>
 
             <p>
-              I am currently in search of exciting Summer Internship opportunities beginning in May
-              2024. With a strong technical background and a passion for innovative solutions, I am
-              eager to contribute and learn in a dynamic team environment during this internship.
+              I am currently in search of exciting Spring Co-Op opportunities beginning in Jan 2025
+              and Full-time opportunities beginning in May 2025. With a strong technical background
+              and a passion for innovative solutions, I am eager to contribute and learn in a
+              dynamic team environment during this internship.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
